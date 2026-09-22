@@ -1,4 +1,4 @@
-.navbar{
+.navbar {
     background-color: #333;
     padding: 1rem;
     text-align: center;
@@ -7,16 +7,16 @@
     top: 0;
     z-index: 1000;
 }
-.navbar ul{
+.navbar ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
-.navbar li{
+.navbar li {
     margin-right: 1rem;
     display: inline-block;
 }
-.navbar a{
+.navbar a {
     color: #fff;
     text-decoration: none;
 }
@@ -25,7 +25,7 @@
     padding-top: 5em; /* Adjust based on navbar height */
 }
 
-.main-content section{
+.main-content section {
     margin-bottom: 2em 1em;
     text-align: center;
 }
